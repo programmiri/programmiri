@@ -7,3 +7,6 @@ I'm an international speaker (and yes, often about testing ^^) and love being pa
 I believe that accessibility is an important part in building an inclusive product and I **strongly** believe we Frontend Engineers should aim to build just that!
 
 ## You can find me
+- [my website](https://programmiri.rocks/)
+- [mastodon](https://hachyderm.io/@mirjam_diala)
+- [twitter](https://twitter.com/mirjam_diala)
