@@ -1,6 +1,6 @@
 # Hi, I'm Mirjam 👋
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=programmiri&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=programmiri&count_private=true&theme=dracula&show=reviews&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - I'm a Senior Software Engineer and fortune to be working in #OpenSource every day 👩‍💻
